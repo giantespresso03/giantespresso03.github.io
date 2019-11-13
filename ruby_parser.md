@@ -14,4 +14,4 @@ I was pleasently surprised on how powerful, yet simple Ruby is compared to other
 <img src="images/ruby_parser_3.png?raw=true"/>
 
 
-For more information, please refer to [Ruby Parser](http://example.com/)
+For more information, please refer to [Ruby Parser](https://github.com/giantespresso03/ruby_parser)
