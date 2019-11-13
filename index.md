@@ -4,11 +4,11 @@
 
 ### Projects
 
-[Uni Color](/sample_page)
+[Uni Color](/uni_color_page)
 <img src="images/uni_color_3.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Ruby Parser](ruby_parser)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
