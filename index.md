@@ -5,7 +5,7 @@
 ### Projects
 
 [Uni Color](/sample_page)
-<img src="uni_color_3?raw=true"/>
+<img src="uni_color_3.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
