@@ -9,7 +9,7 @@
 
 ---
 [Ruby Parser](ruby_parser_page.md)
-<img src="images/ruby_parser_4?raw=true"/>
+<img src="images/ruby_parser_4.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
