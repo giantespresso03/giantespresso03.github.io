@@ -8,7 +8,7 @@
 <img src="images/uni_color_3.jpg?raw=true"/>
 
 ---
-[Ruby Parser](ruby_parser_page.md)
+[Ruby Parser](/ruby_parser_page.md)
 <img src="images/ruby_parser_4.png?raw=true"/>
 
 ---
