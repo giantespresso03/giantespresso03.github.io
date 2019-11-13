@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Uni Color](/sample_page)
+<img src="uni_color_3?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
