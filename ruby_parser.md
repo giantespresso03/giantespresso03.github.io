@@ -4,13 +4,13 @@
 
 I was pleasently surprised on how powerful, yet simple Ruby is compared to other coding languages, and I really enjoyed the learning process of Ruby. This really opened up my perspective on using another programming languages and answered my personal question of "Why do we need more than one programming language?". Along with that, I also got to learn a new concept called regular expressions (REGEX) and realized how easy it made programming for me.
 
-### Title Screen
+### Error Message (Wrong Parameters)
 <img src="images/ruby_parser1.png?raw=true"/>
 
-### Upgrade/Shop Screen
+### Scheme Output (-s flag)
 <img src="images/ruby_parser2.png?raw=true"/>
 
-### In-Game Screen
+### Prolog Output (-p flag)
 <img src="images/ruby_parser3.png?raw=true"/>
 
 
