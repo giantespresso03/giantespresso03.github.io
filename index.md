@@ -16,9 +16,7 @@
 <img src="images/tic_tac_toe_2.png?raw=true"/>
 
 ---
-
-
-
+[Website Development](/website_development_page.md)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
