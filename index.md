@@ -1,9 +1,6 @@
 ## Portfolio
 
 ---
-
-### Projects
-
 [Uni Color](/uni_color_page.md)
 <img src="images/uni_color_3.jpg?raw=true"/>
 
