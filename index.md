@@ -2,15 +2,15 @@
 
 ---
 [Uni Color](/uni_color_page.md)
-<img src="images/uni_color_3.jpg?raw=true"/>
+<img src="images/rsz_uni_color_3.jpg?raw=true"/>
 
 ---
 [Ruby Parser](/ruby_parser_page.md)
-<img src="images/ruby_parser_4.png?raw=true"/>
+<img src="images/rsz_ruby_parser_4.png?raw=true"/>
 
 ---
 [Interactive Tic-Tac-Toe](/tic_tac_toe_page.md)
-<img src="images/tic_tac_toe_2.png?raw=true"/>
+<img src="images/rsz_tic_tac_toe_2.png?raw=true"/>
 
 ---
 [Website Development](/website_development_page.md)
