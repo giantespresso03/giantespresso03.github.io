@@ -18,7 +18,7 @@
 - Atom with ruby
   - Implementation of regular expression
   - Taking flags in through arguments
-<img src="images/rsz_ruby_parser.png?raw=true"/>
+<img src="images/ruby_parser_2.png?raw=true"/>
 
 ---
 [Interactive Tic-Tac-Toe](/tic_tac_toe_page.md)
