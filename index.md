@@ -1,8 +1,14 @@
 ## Portfolio
-
+---
+[Software Engineering Internship](/internship.md)
+- (April 2020 - July 2021)
+- Internship with a startup company called VillaVox
+- Utilized React.js, Zeplin, and Firebase to create a website and a web application
+- Weekly meeting with the CEO for a weekly report and discussion
+<img src="images/internship_2.png?raw=true"/>
 ---
 [Uni Color](/uni_color_page.md)
-- (August 2019 - Current)
+- (August 2019 - October 2019)
 - Team project with friends (of five)
   - Initially a private hackathon idea
 - Classic tilt to dodge game with random enemy moving pattern
