@@ -6,6 +6,7 @@
 - Utilized React.js, Zeplin, and Firebase to create a website and a web application
 - Weekly meeting with the CEO for a weekly report and discussion
 <img src="images/internship_2.png?raw=true"/>
+
 ---
 [Uni Color](/uni_color_page.md)
 - (August 2019 - October 2019)
